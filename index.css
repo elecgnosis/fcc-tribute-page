@@ -31,7 +31,7 @@ body {
   margin-left: 0;
   margin-right: 0;
   padding-top: 20px;
-  overflow: hidden;
+  overflow: scroll;
   font-family: Carrois Gothic, sans-serif;
   border: 2px solid rgba(255, 255, 255, 0.30);
   background-clip: padding-box;
